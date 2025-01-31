@@ -1,6 +1,7 @@
-                                                             <h1> Challenge Amigo Secreto Aulra / ONE </h1>
+                                                            
 # Aplicación web de Sorteo de Amigos
-
+ Challenge Amigo Secreto Aulra / ONE
+ 
 Esta es una aplicación web que permite agregar nombres de amigos a una lista y seleccionar un amigo al azar. La aplicación está desarrollada en HTML, Css y JavaScript.
 
 # Características
